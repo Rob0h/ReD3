@@ -1,13 +1,12 @@
 {
   "name": "red3",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reusable React components for D3 graphs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack -p",
     "prepublish": "babel lib --out-dir ./dist"
-
   },
   "repository": {
     "type": "git",
@@ -22,7 +21,6 @@
     "ReD3"
   ],
   "homepage": "red3.herokuapp.com",
-
   "author": [
     "Robert Oh",
     "Emerson Hum",
