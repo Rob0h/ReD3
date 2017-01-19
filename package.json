@@ -1,6 +1,6 @@
 {
   "name": "red3",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Reusable React components for D3 graphs",
   "main": "index.js",
   "scripts": {
